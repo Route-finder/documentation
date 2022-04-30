@@ -1,17 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Library Route Finder Documentation!
+==================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The **Library Route Finder** is a web-based tool to assist in finding items in
+Preus Library at Luther College. The application is composed of a React-based
+frontend, as well as an API-based backend.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project was developed as a Senior Project for the `Luther College
+   Computer Science department <https://www.luther.edu/computer-science/major/>`.
+
+   Contributors:
+   * Firdavs Atabaev
+   * Alex Dikelsky
+   * Isaac List
 
 Contents
 --------
