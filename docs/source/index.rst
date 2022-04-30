@@ -8,15 +8,17 @@ frontend, as well as an API-based backend.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
+About
+-----
 
-   This project was developed as a Senior Project for the `Luther College
-   Computer Science department <https://www.luther.edu/computer-science/major/>`.
+This project was developed as a Senior Project for the `Luther College
+Computer Science department <https://www.luther.edu/computer-science/major/>`.
 
-   Contributors:
-   * Firdavs Atabaev
-   * Alex Dikelsky
-   * Isaac List
+Contributors:
+
+* Firdavs Atabaev
+* Alex Dikelsky
+* Isaac List
 
 Contents
 --------

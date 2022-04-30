@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Library Route Finder'
+copyright = '2022, Isaac List, Alex Dikelsky, Firdavs Atabaev'
+author = 'Isaac List'
 
 release = '0.1'
 version = '0.1.0'
