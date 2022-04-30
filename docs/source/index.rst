@@ -9,9 +9,6 @@ Check out the :doc:`usage` section for technical information about the project,
 and the :doc:`api` section for information about the API provided by the backend.
 For contributing and community guidelines, please see :doc:`contributing`.
 
-About
------
-
 This project was developed as a Senior Project for the
 `Luther College Computer Science department <https://www.luther.edu/computer-science/major/>`_.
 
@@ -27,8 +24,6 @@ Contributors:
 * Firdavs Atabaev
 * Alex Dikelsky
 * Isaac List
-
-**Contents**
 
 .. toctree::
 
