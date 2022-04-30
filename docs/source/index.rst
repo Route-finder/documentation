@@ -28,17 +28,10 @@ Contributors:
 * Alex Dikelsky
 * Isaac List
 
-Technical Documentation
------------------------
+**Contents**
 
 .. toctree::
 
    usage
    api
-
-Contributing Guidelines
------------------------
-
-.. toctree::
-
-	contributing
+   contributing
