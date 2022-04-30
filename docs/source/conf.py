@@ -6,8 +6,8 @@ project = 'Library Route Finder'
 copyright = '2022, Isaac List, Alex Dikelsky, Firdavs Atabaev'
 author = 'Isaac List'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '0.2.0'
 
 # -- General configuration
 
