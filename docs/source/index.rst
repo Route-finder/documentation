@@ -29,4 +29,5 @@ Contributors:
 
    usage
    api
+   database
    contributing
