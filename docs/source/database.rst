@@ -42,13 +42,13 @@ SQL Configuration
 
 The following SQL command will create the necessary table for the application.
 
-.. code-block: SQL
+.. code-block:: SQL
 
-create table booklist IF NOT EXISTS (
+  create table booklist IF NOT EXISTS (
     isbn VARCHAR(16),
     author VARCHAR(64),
     title VARCHAR(256),
     call_no VARCHAR(48),
     username VARCHAR(64),
     PRIMARY KEY (isbn, username)
-);
+  );
