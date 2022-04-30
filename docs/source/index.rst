@@ -11,8 +11,8 @@ how to :ref:`installation` the project.
 About
 -----
 
-This project was developed as a Senior Project for the `Luther College
-Computer Science department <https://www.luther.edu/computer-science/major/>`.
+This project was developed as a Senior Project for the
+`Luther College Computer Science department <https://www.luther.edu/computer-science/major/>`_.
 
 Contributors:
 
