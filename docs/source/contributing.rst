@@ -59,14 +59,11 @@ CSS Tricks has a `well-written guide <https://css-tricks.com/code-review-etiquet
 to maintaining respectful etiquette in a Code Review process. The article is worth
 a read-through, but in summary:
 
-  1. Remove the person: use "we" instead of "I" and "you" to reflect that reviewing
-  code is a collaborative activity.
-  
-  2. Keep conversation focused on technical problems and solutions. Avoid emotional
-  responses, and instead use clarifying questions to direct discussion.
-  
+  1. Remove the person: use "we" instead of "I" and "you" to reflect that reviewing code is a collaborative activity.
+  2. Keep conversation focused on technical problems and solutions. Avoid emotional  responses, and instead use clarifying questions to direct discussion.
   3. Review the code, not the author.
-  	* Programming is as creative as it is technical, and each person approaches it differently.
-  	* Where possible, seek to correct mistakes by teaching, rather than dismissal.
-  	* If there is a conflict about coding style, refer to the project Style Guide.
+  
+  	- Programming is as creative as it is technical, and each person approaches it differently.
+  	- Where possible, seek to correct mistakes by teaching, rather than dismissal.
+  	- If there is a conflict about coding style, refer to the project Style Guide.
 
