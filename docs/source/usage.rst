@@ -1,6 +1,6 @@
-=====
-Usage
-=====
+==============
+For Developers
+==============
 
 .. _installation:
 
