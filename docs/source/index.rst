@@ -32,3 +32,4 @@ Contributors:
    database
    contributing
    endusers
+   map

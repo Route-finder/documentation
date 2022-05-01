@@ -1,9 +1,9 @@
 =====
-For Developers
+Mapping
 =====
 
 Application Purpose
-====
+-------------------
 
 The purpose of the mapping program
 is to provide information for reshelving books.
@@ -16,7 +16,7 @@ if needed by modifying `map.json` with new data as described
 below.
 
 Creating a new map
-----
+---------------------------
 
 Map.tsx, in the src/components/ui directory reads from a file in the
 same directory called `map.json` for the creation of the map.
@@ -43,14 +43,15 @@ that is readable for our
 To use this new map, overwrite the contents of `map.json` with the above JSON.
 
 Modifying minor aspects
-----
+---------------------------
+
 To change the colors of the books, modify
 the constants `NO_BOOKS_COLOR` and `HAS_BOOKS_COLOR`. You can
 also modify the width between the shelves, and certain other aspects
 of the map using the global constants at the top of the file.
 
 Modifying the code
-----
+---------------------------
 
 If the map produced looks incorrect in some way, such as being too long for
 the screen, you may need to use or write your own functions. The idea
@@ -63,7 +64,7 @@ what everything looks like.
 
 
 React components
----
+------------------------------
 
 - `Shelf`: Shelves are building block of rows, and need
   information, such as the color of each of their sides,
