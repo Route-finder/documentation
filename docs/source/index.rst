@@ -30,6 +30,6 @@ Contributors:
    usage
    api
    database
+   map
    contributing
    endusers
-   map
