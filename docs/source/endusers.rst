@@ -46,4 +46,19 @@ added to your list, or in the case of an error will communicate the issue.
 Viewing the Booklist and Route
 ------------------------------
 
-*To be added later*
+To view your list of books as well as a map of which shelves you will have to
+visit to retrieve them, visit the "List of Books" link in the navigation bar.
+This will bring you to this page, where you will see your list outlined:
+
+.. image:: images/route.png
+
+Highlighted in dark blue are the shelves you should visit, while the light blue
+shelves indicate ones to skip. Multiple books may be located on the same shelf,
+especially for books on the same topic, so the number of highlighted shelves is
+likely to differ from the number of items on your list.
+
+**Clearing the List**
+
+To clear your list of items, simply click or tap the red "Clear List" button.
+This action cannot be undone, and you will have to return to the "Add Books"
+page in order to re-locate any items.
